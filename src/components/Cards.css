@@ -1,0 +1,61 @@
+.featured-item {
+    border-radius: 5px;
+    border: 1px solid #eee;
+    padding: 20px;
+    transition: all 0.5s; 
+   
+    
+    
+}  
+
+
+img{
+    display: block;
+    width: 100%;
+    vertical-align: middle;
+    border-style: none;
+} 
+
+.card-title {
+    font-size: 17px;
+    font-weight: 700;
+    color: #1e1e1e;
+    margin-top: 15px;
+    transition: all 0.5s;
+} 
+
+
+.card-text{
+    color: #3a8bcd;
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 0px;
+} 
+
+
+button{
+  position: relative;
+} 
+
+.title{
+    height: 100px; 
+    overflow: hidden;
+} 
+
+
+.btn{
+
+    background-color:rgba(17, 12, 53, 0.972) !important;
+    color: #eee !important;
+}
+
+.btn:hover{
+    background-color:rgba(17, 12, 53, 0.6)!important;
+}
+ 
+.cros{
+    background-color:white;
+} 
+.card{
+background-color:white!important ;
+}

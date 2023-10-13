@@ -1,0 +1,35 @@
+.banner {
+    margin-top: 50px;
+    background-image: url(../../assets/images/cover.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 0px;
+    background-position: center center;
+} 
+
+.banner {
+    border-top: none;
+    margin-top: 0px;
+} 
+
+.banner .caption {
+    background-color: rgba(250, 250, 250, 0.43);
+    padding: 20px;
+    max-width: 300px;
+    max-height: 200px;
+    margin-left:0px;
+}
+
+.banner .caption h2 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    font-size: 24px;
+    font-weight: 700;
+    color:rgba(17, 12, 53, 0.524);
+} 
+
+.banner .caption p {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color:rgba(17, 12, 53, 0.524);
+}

@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap');
+
+:root{ 
+  --bg-main:#007bff;
+  --light-bg:#24baef;
+  --main-color:#fff;
+
+
+
+
+
+
+}
+
+a:-webkit-any-link {
+  
+  cursor: pointer;
+ 
+}
+
+
+body {
+  
+  
+  font-family: 'Roboto', sans-serif !important;  
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color:white;
+
+} 
+
+p {
+  margin-bottom: 0px;
+  font-size: 14px;
+  color: #4a4a4a;
+  line-height: 24px;
+} 
+
+.main-button a {
+  background-color:rgba(17, 12, 53, 0.972);
+  border-radius: 5px;
+  padding: 10px 15px;
+  display: inline-block;
+  color: #fff;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: 0.4px;
+  text-decoration: none;
+  transition: all 0.5s;
+}  
+
+.main-button a:hover{
+  background-color: rgba(17, 12, 53, 0.516);
+}
+
+a {
+  text-decoration: none!important; 
+  color: #007bff;
+}
+
+*{
+  box-sizing: border-box;
+} 
+
+div {
+  display: block;
+} 
+
+img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
